@@ -1,0 +1,14 @@
+D:\prog\2017\Demo\Demo\bin\Release\Demo.exe.config
+D:\prog\2017\Demo\Demo\bin\Release\Demo.exe
+D:\prog\2017\Demo\Demo\bin\Release\Demo.pdb
+D:\prog\2017\Demo\Demo\bin\Release\Gma.System.MouseKeyHook.dll
+D:\prog\2017\Demo\Demo\bin\Release\Imgur.API.dll
+D:\prog\2017\Demo\Demo\bin\Release\Newtonsoft.Json.dll
+D:\prog\2017\Demo\Demo\bin\Release\Imgur.API.xml
+D:\prog\2017\Demo\Demo\bin\Release\Newtonsoft.Json.xml
+D:\prog\2017\Demo\Demo\obj\Release\Demo.ScreenMaker.resources
+D:\prog\2017\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+D:\prog\2017\Demo\Demo\obj\Release\Demo.ScreenSaver.resources
+D:\prog\2017\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+D:\prog\2017\Demo\Demo\obj\Release\Demo.exe
+D:\prog\2017\Demo\Demo\obj\Release\Demo.pdb
